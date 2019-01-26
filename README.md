@@ -1,4 +1,6 @@
 # AndroidScreenMonitor
 
-By the help of this ADT driven tool , Android device can be cast to Desktop without rooting the device.
-Written in Kotlin
+This project is inspired by the Vysor app for android. I have used Kotlin language for development.
+This Tool puts your Android on your desktop and controls it by enabling the debug mode.
+
+Demo : 
